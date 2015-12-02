@@ -5,6 +5,7 @@ require 'date'
 class Mixtape
   @@channels = [
     'UCJ6td3C9QlPO9O_J5dF4ZzA', # monstercat
+    'UCNyo1qwT4ZKuoWsyrrdoc6g', # med school
     'UCpEYMEafq3FsKCQXNliFY9A', # arctic empire
     'UCxaLJvYDW8XMgrNbdnZ-uMQ', # camo and krooked
     'UCD7UAd18FFkcJ22wxNNwq7A', # dirty bird
