@@ -15,6 +15,7 @@ class Mixtape
     'UC2EMLFSTChy7wpL72D-23Ug', # solar heavy
     'UCROK2sVv9Jhxcpha8v4A8KA', # spearhead
     'UCLTZddgA_La9H4Ngg99t_QQ', # suicide sheeep
+    'UC5nc_ZtjKW1htCVZVRxlQAQ', # mr. suicide sheep
     'UC0n9yiP-AD2DpuuYCDwlNxQ', # tasty
     'UCH3V-b6weBfTrDuyJgFioOw', # the dub rebellion
     'UCr8oc-LOaApCXWLjL7vdsgw', # UKF DnB
