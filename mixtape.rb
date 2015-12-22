@@ -9,7 +9,6 @@ class Mixtape
     'UCpEYMEafq3FsKCQXNliFY9A', # arctic empire
     'UCxaLJvYDW8XMgrNbdnZ-uMQ', # camo and krooked
     'UCD7UAd18FFkcJ22wxNNwq7A', # dirty bird
-    'UCUHhoftNnYfmFp1jvSavB-Q', # funky panda
     'UCkUTBwZKwA9ojYqzj6VRlMQ', # one chilled panda
     'UCyCK2Qw6YnmZzpsIwZ2CT6g', # rusted media
     'UChVfER-3s533FTh8Uae0Rhg', # seven lions
