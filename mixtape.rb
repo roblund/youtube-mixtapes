@@ -20,6 +20,10 @@ class Mixtape
     'UCH3V-b6weBfTrDuyJgFioOw', # the dub rebellion
     'UCr8oc-LOaApCXWLjL7vdsgw', # UKF DnB
     'UCfLFTP1uTuIizynWsZq2nkQ', # UKF Dubstep
+    'UCCvVpbYRgYjMN7mG7qQN0Pg', # Bass Nation
+    'UCj_Y-xJ2DRDGP4ilfzplCOQ', # House Nation
+    'UC_YkVYHryBr7iy4QsyH28AQ', # Quality Sound
+    'UCSa8IUd1uEjlREMa21I3ZPQ', # CloudKid
   ]
 
   def initialize

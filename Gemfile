@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-ruby '2.2.1'
+ruby '2.3.3'
 
-gem 'yt', '~> 0.25.5'
+gem 'yt', '~> 0.28.0'
