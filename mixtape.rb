@@ -5,19 +5,11 @@ require 'date'
 class Mixtape
   @@channels = [
     'UCJ6td3C9QlPO9O_J5dF4ZzA', # monstercat
-    'UCNyo1qwT4ZKuoWsyrrdoc6g', # med school
     'UCpEYMEafq3FsKCQXNliFY9A', # arctic empire
     'UCxaLJvYDW8XMgrNbdnZ-uMQ', # camo and krooked
-    'UCD7UAd18FFkcJ22wxNNwq7A', # dirty bird
-    'UCkUTBwZKwA9ojYqzj6VRlMQ', # one chilled panda
-    'UCyCK2Qw6YnmZzpsIwZ2CT6g', # rusted media
-    'UChVfER-3s533FTh8Uae0Rhg', # seven lions
-    'UC2EMLFSTChy7wpL72D-23Ug', # solar heavy
-    'UCROK2sVv9Jhxcpha8v4A8KA', # spearhead
     'UCLTZddgA_La9H4Ngg99t_QQ', # suicide sheeep
     'UC5nc_ZtjKW1htCVZVRxlQAQ', # mr. suicide sheep
     'UC0n9yiP-AD2DpuuYCDwlNxQ', # tasty
-    'UCH3V-b6weBfTrDuyJgFioOw', # the dub rebellion
     'UCr8oc-LOaApCXWLjL7vdsgw', # UKF DnB
     'UCfLFTP1uTuIizynWsZq2nkQ', # UKF Dubstep
     'UCCvVpbYRgYjMN7mG7qQN0Pg', # Bass Nation
